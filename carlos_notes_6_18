@@ -1,0 +1,68 @@
+change phi to negative angle convention
+relative as fraction of numerical (linear scale)
+red and green, blue (relative to each)
+change probability to survivial percentage
+change e-16 to 10^-16 
+change v to zero (plain zero)
+same font in units
+
+match all font sizes
+use energies in TeV (everywhere)
+make eps files
+
+include all this in the latex file
+12 point latex caption
+size of numbers should match size of axis font scales.
+"neutrino survival percentage calculated for parameters X shown for a full numerical calcualtion and perturbative orders" Caption figure
+
+legend with fancybox=true (round edges)
+
+Times new roman for everything
+
+cut percentage at 0.5, or use two param sets
+tic marks larger
+
+units: convention of
+energy -> neurino energy /TeV, or [TeV] <- this one: make two for comparison
+
+try order 2 
+
+mention that there are two!
+call order 0 standard vacuum oscillation (no confusion)
+be explicit about both approximations (QM and taylor).
+call order 1: perturbation
+add the order 1 QM as a line. Then add the 1st order epsilon expansion.
+fix misalignment! in twinx plots
+relative are will illuminate
+in lambda panel, keep absolutes
+
+merge two lambda into one plot, one dash, one solid. X axis will have lam1 (lam2)
+caption explanation
+
+overlay matter and vacuum phi plots to chart motion.
+
+
+solve the phiset by diagonalizing numerically. compare.
+
+-----------------------------------------------
+
+check first order and second order truncations with direct mathematica script calls
+
+phi overlay 
+
+lambda overlay
+
+latex
+-----------------------------------------------
+investigate mismatch in energy
+
+fraction of V
+
+define hamiltonian: define each term
+constant density, define diagonal solution
+put 1st and 2nd pert: put formulae
+
+
+then put numerical plots: next section (earth section)
+
+spaghetti plots, and oscillograms.
